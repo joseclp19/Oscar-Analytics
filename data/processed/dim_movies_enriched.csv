@@ -1,6 +1,20 @@
 film,year_ceremony,tmdb_id,budget,revenue,runtime,genres,release_date,poster_url,status
 Wings,1928,28966,2000000,3600000,144,"Drama, Action, War, Romance",1927-08-12,https://image.tmdb.org/t/p/w500/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg,Found
 The Broadway Melody,1929,65203,379000,4358000,101,"Music, Romance, Drama",1929-02-08,https://image.tmdb.org/t/p/w500/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg,Found
+All Quiet on the Western Front,1930,49046,20000000,0,147,"War, History, Drama",2022-10-07,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg,Found
+Cimarron,1931,42861,1433000,1383000,123,"Western, Drama",1931-01-26,https://image.tmdb.org/t/p/w500/cqvfhi9s1VsTgXcV1B7vX0Cb1qA.jpg,Found
+Grand Hotel,1932,80909,0,0,91,Drama,1931-12-08,,Found
+Cavalcade,1933,865417,0,0,87,Adventure,1959-12-04,https://image.tmdb.org/t/p/w500/go5NwiDTra1XJKmVHhkWcH9Q7Cn.jpg,Found
+It Happened One Night,1935,3078,325000,4500000,105,"Comedy, Romance",1934-02-22,https://image.tmdb.org/t/p/w500/2PNUGWAflH6UUumas0POMmokHlc.jpg,Found
+Mutiny on the Bounty,1936,12311,1950000,4460000,132,"Adventure, Drama, History",1935-11-22,https://image.tmdb.org/t/p/w500/GD98ozz6F6tSu8BWGulpseEKhv.jpg,Found
+The Great Ziegfeld,1937,43277,2183000,4673000,185,"Music, Drama, Romance",1936-04-08,https://image.tmdb.org/t/p/w500/7wkIYI2r0ICajBcCW0JlIT3zSwc.jpg,Found
+The Life of Emile Zola,1938,43278,0,0,116,"Drama, History",1937-09-09,https://image.tmdb.org/t/p/w500/gsEa6ZU1zHhjTYneNNBQApzl8Vu.jpg,Found
+You Can't Take It with You,1939,34106,1644736,7433101,126,"Comedy, Romance",1938-09-01,https://image.tmdb.org/t/p/w500/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg,Found
+Gone with the Wind,1940,770,4000000,402352579,233,"Drama, War, Romance",1939-12-15,https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg,Found
+Rebecca,1941,223,1288000,7592465,130,"Mystery, Romance, Thriller",1940-03-23,https://image.tmdb.org/t/p/w500/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg,Found
+How Green Was My Valley,1942,43266,800000,4800000,118,Drama,1941-10-28,https://image.tmdb.org/t/p/w500/8N7OmxBqjRVUrqergUduGgr6exy.jpg,Found
+Mrs. Miniver,1943,27367,1344000,13500000,134,"Drama, Romance, War",1942-07-03,https://image.tmdb.org/t/p/w500/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg,Found
+Casablanca,1944,289,878000,10462500,103,"Drama, Romance",1943-01-15,https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg,Found
 Going My Way,1945,17661,0,16300000,126,"Drama, Comedy, Music",1944-01-01,https://image.tmdb.org/t/p/w500/838yNJnOk6iZj5YK1MoKiN2n1hw.jpg,Found
 The Lost Weekend,1946,28580,1250000,11000000,101,Drama,1945-11-29,https://image.tmdb.org/t/p/w500/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg,Found
 The Best Years of Our Lives,1947,887,2100000,23650000,171,"Drama, Romance",1946-12-25,https://image.tmdb.org/t/p/w500/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg,Found
@@ -34,7 +48,7 @@ The Sting,1974,9277,5500000,159616327,129,"Comedy, Crime, Drama",1973-12-25,http
 The Godfather Part II,1975,240,13000000,102600000,202,"Drama, Crime",1974-12-20,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg,Found
 One Flew over the Cuckoo's Nest,1976,510,3000000,108981275,133,Drama,1975-11-19,https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg,Found
 Rocky,1977,1366,1000000,117253345,120,Drama,1976-11-20,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg,Found
-Annie Hall,1978,703,4000000,43989445,93,"Comedy, Drama, Romance",1977-04-19,https://image.tmdb.org/t/p/w500/gBo4G0p8iVS998aYvXS656jbsH2.jpg,Found
+Annie Hall,1978,703,4000000,43989445,93,"Comedy, Drama, Romance",1977-04-19,https://image.tmdb.org/t/p/w500/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg,Found
 The Deer Hunter,1979,11778,15000000,49000000,183,"Drama, War",1978-12-08,https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg,Found
 Kramer vs. Kramer,1980,12102,8000000,106260000,105,Drama,1979-12-07,https://image.tmdb.org/t/p/w500/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg,Found
 Ordinary People,1981,16619,6000000,54766923,124,Drama,1980-09-19,https://image.tmdb.org/t/p/w500/tJVETEDAKgD3fEh88SHOvMvOQue.jpg,Found
