@@ -1,0 +1,84 @@
+film,year_ceremony,tmdb_id,budget,revenue,runtime,genres,release_date,poster_url,status
+Wings,1928,28966,2000000,3600000,144,"Drama, Action, War, Romance",1927-08-12,https://image.tmdb.org/t/p/w500/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg,Found
+The Broadway Melody,1929,65203,379000,4358000,101,"Music, Romance, Drama",1929-02-08,https://image.tmdb.org/t/p/w500/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg,Found
+Going My Way,1945,17661,0,16300000,126,"Drama, Comedy, Music",1944-01-01,https://image.tmdb.org/t/p/w500/838yNJnOk6iZj5YK1MoKiN2n1hw.jpg,Found
+The Lost Weekend,1946,28580,1250000,11000000,101,Drama,1945-11-29,https://image.tmdb.org/t/p/w500/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg,Found
+The Best Years of Our Lives,1947,887,2100000,23650000,171,"Drama, Romance",1946-12-25,https://image.tmdb.org/t/p/w500/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg,Found
+Gentleman's Agreement,1948,33667,2000000,7800000,118,Drama,1947-11-11,https://image.tmdb.org/t/p/w500/aCCRbcmigPk00f34hpJuWZuvABo.jpg,Found
+Hamlet,1949,23383,750000,0,153,Drama,1948-12-10,https://image.tmdb.org/t/p/w500/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg,Found
+All the King's Men,1950,25430,0,0,109,Drama,1949-11-16,https://image.tmdb.org/t/p/w500/7o8nnvFnkekDAlIYznNUWzxQFM6.jpg,Found
+All about Eve,1951,705,1400000,8402553,139,Drama,1950-11-09,https://image.tmdb.org/t/p/w500/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg,Found
+An American in Paris,1952,2769,5635000,6981000,113,"Music, Romance, Comedy",1951-09-26,https://image.tmdb.org/t/p/w500/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg,Found
+The Greatest Show on Earth,1953,27191,4000000,36000000,152,"Drama, Romance",1952-02-16,https://image.tmdb.org/t/p/w500/cKI0yGPRh1IlvRKKJRoMZruior8.jpg,Found
+From Here to Eternity,1954,11426,1650000,30500000,118,"War, Romance, Drama",1953-08-28,https://image.tmdb.org/t/p/w500/xO1LHnh9aQlQFFq1DxyQrOTia1S.jpg,Found
+On the Waterfront,1955,654,910000,9600631,108,"Crime, Drama, Romance",1954-06-22,https://image.tmdb.org/t/p/w500/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg,Found
+Marty,1956,15919,343000,3000000,90,"Drama, Romance",1955-04-11,https://image.tmdb.org/t/p/w500/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg,Found
+Around the World in 80 Days,1957,2897,6000000,42000000,182,"Adventure, Comedy, Family, Fantasy, Romance",1956-10-17,https://image.tmdb.org/t/p/w500/kk6Rrwh0toMz9tjuUHdS4O3v2Rk.jpg,Found
+The Bridge on the River Kwai,1958,826,2800000,44908000,161,"Drama, History, War",1957-10-11,https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg,Found
+Gigi,1959,17281,3319355,13200000,115,"Comedy, Romance",1958-05-15,https://image.tmdb.org/t/p/w500/3GSuecnDr4N5ZaqTrwElSzt6eC2.jpg,Found
+Ben-Hur,1960,665,15000000,164000000,212,"History, Drama, Adventure",1959-11-18,https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg,Found
+The Apartment,1961,284,3000000,25000000,125,"Comedy, Drama, Romance",1960-06-21,https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg,Found
+West Side Story,1962,1725,6000000,43700000,153,"Crime, Drama, Romance",1961-12-13,https://image.tmdb.org/t/p/w500/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg,Found
+Lawrence of Arabia,1963,947,15000000,70000000,228,"Adventure, History, War",1962-12-11,https://image.tmdb.org/t/p/w500/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg,Found
+Tom Jones,1964,5769,1000000,37600000,128,"Comedy, Adventure, History, Romance",1963-08-24,https://image.tmdb.org/t/p/w500/yKuZKLMhe74PJzaxYLh2s8h4P2P.jpg,Found
+My Fair Lady,1965,11113,17000000,72661442,170,"Comedy, Romance",1964-12-01,https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg,Found
+The Sound of Music,1966,15121,8200000,286214286,174,"Drama, Family, Music, Romance",1965-03-29,https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg,Found
+A Man for All Seasons,1967,874,3900000,28350000,120,"Drama, History",1966-12-13,https://image.tmdb.org/t/p/w500/kcwcqMitcnRO1SySlX1HKVn7yUV.jpg,Found
+In the Heat of the Night,1968,10633,2000000,27379978,109,"Crime, Drama, Mystery, Thriller",1967-08-02,https://image.tmdb.org/t/p/w500/1zjS7aSgvOX98BSWEsshDw3kxe5.jpg,Found
+Oliver!,1969,17917,10000000,37400000,153,"Drama, Family",1968-09-26,https://image.tmdb.org/t/p/w500/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg,Found
+Midnight Cowboy,1970,3116,3600000,44785053,113,Drama,1969-05-25,https://image.tmdb.org/t/p/w500/ckklq45UxUkwgHve9xItXqXr06r.jpg,Found
+Patton,1971,11202,12000000,89800000,172,"War, Drama, History",1970-01-25,https://image.tmdb.org/t/p/w500/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg,Found
+The French Connection,1972,1051,1800000,41200000,104,"Action, Crime, Thriller",1971-10-09,https://image.tmdb.org/t/p/w500/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg,Found
+The Godfather,1973,238,6000000,245066411,175,"Drama, Crime",1972-03-14,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg,Found
+The Sting,1974,9277,5500000,159616327,129,"Comedy, Crime, Drama",1973-12-25,https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg,Found
+The Godfather Part II,1975,240,13000000,102600000,202,"Drama, Crime",1974-12-20,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg,Found
+One Flew over the Cuckoo's Nest,1976,510,3000000,108981275,133,Drama,1975-11-19,https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg,Found
+Rocky,1977,1366,1000000,117253345,120,Drama,1976-11-20,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg,Found
+Annie Hall,1978,703,4000000,43989445,93,"Comedy, Drama, Romance",1977-04-19,https://image.tmdb.org/t/p/w500/gBo4G0p8iVS998aYvXS656jbsH2.jpg,Found
+The Deer Hunter,1979,11778,15000000,49000000,183,"Drama, War",1978-12-08,https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg,Found
+Kramer vs. Kramer,1980,12102,8000000,106260000,105,Drama,1979-12-07,https://image.tmdb.org/t/p/w500/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg,Found
+Ordinary People,1981,16619,6000000,54766923,124,Drama,1980-09-19,https://image.tmdb.org/t/p/w500/tJVETEDAKgD3fEh88SHOvMvOQue.jpg,Found
+Chariots of Fire,1982,9443,5500000,58972904,123,"Drama, History",1981-05-15,https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg,Found
+Gandhi,1983,783,22000000,77737889,191,"Drama, History",1982-12-01,https://image.tmdb.org/t/p/w500/rOXftt7SluxskrFrvU7qFJa5zeN.jpg,Found
+Terms of Endearment,1984,11050,8000000,108423749,132,"Drama, Comedy",1983-11-20,https://image.tmdb.org/t/p/w500/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg,Found
+Amadeus,1985,279,18000000,90007557,160,"History, Music, Drama",1984-09-19,https://image.tmdb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg,Found
+Out of Africa,1986,606,31000000,227514205,161,"History, Romance, Drama",1985-12-20,https://image.tmdb.org/t/p/w500/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg,Found
+Platoon,1987,792,6000000,138530565,120,"Drama, War, Action",1986-12-19,https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg,Found
+The Last Emperor,1988,746,23800000,44000000,163,"Drama, History",1987-10-04,https://image.tmdb.org/t/p/w500/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg,Found
+Rain Man,1989,380,25000000,354825435,134,Drama,1988-12-12,https://image.tmdb.org/t/p/w500/iTNHwO896WKkaoPtpMMS74d8VNi.jpg,Found
+Driving Miss Daisy,1990,403,7500000,145793296,99,Drama,1989-12-13,https://image.tmdb.org/t/p/w500/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg,Found
+Dances With Wolves,1991,581,22000000,424208848,181,"Adventure, Drama, Western",1990-03-30,https://image.tmdb.org/t/p/w500/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg,Found
+The Silence of the Lambs,1992,274,19000000,272742922,119,"Crime, Thriller, Drama",1991-02-14,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg,Found
+Unforgiven,1993,33,14400000,159157447,130,Western,1992-08-07,https://image.tmdb.org/t/p/w500/54roTwbX9fltg85zjsmrooXAs12.jpg,Found
+Schindler's List,1994,424,22000000,321365567,195,"Drama, History, War",1993-12-15,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg,Found
+Forrest Gump,1995,13,55000000,677387716,142,"Comedy, Drama, Romance",1994-06-23,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg,Found
+Braveheart,1996,197,72000000,213216216,178,"Action, Drama, History, War",1995-05-24,https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg,Found
+The English Patient,1997,409,27000000,231976425,162,"Drama, Romance, War",1996-11-14,https://image.tmdb.org/t/p/w500/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg,Found
+Titanic,1998,597,200000000,2264162353,194,"Drama, Romance",1997-12-18,https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg,Found
+Shakespeare in Love,1999,1934,25000000,289317794,124,"Romance, History, Comedy",1998-12-11,https://image.tmdb.org/t/p/w500/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg,Found
+American Beauty,2000,14,15000000,356296601,122,Drama,1999-09-15,https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg,Found
+Gladiator,2001,98,103000000,465516248,155,"Action, Drama, Adventure",2000-05-04,https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg,Found
+A Beautiful Mind,2002,453,58000000,316791257,135,"Drama, Romance",2001-12-14,https://image.tmdb.org/t/p/w500/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg,Found
+Chicago,2003,1574,45000000,306776732,113,"Comedy, Crime, Drama",2002-12-10,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg,Found
+The Lord of the Rings: The Return of the King,2004,122,94000000,1118888979,201,"Adventure, Fantasy, Action",2003-12-17,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg,Found
+Million Dollar Baby,2005,70,30000000,216763646,132,Drama,2004-12-05,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg,Found
+Crash,2006,1640,6500000,98400000,112,Drama,2005-05-06,https://image.tmdb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg,Found
+The Departed,2007,1422,90000000,291465000,151,"Drama, Thriller, Crime",2006-10-04,https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg,Found
+No Country for Old Men,2008,6977,25000000,171627166,122,"Crime, Thriller, Western",2007-11-09,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg,Found
+Slumdog Millionaire,2009,12405,15000000,378400000,121,"Drama, Romance",2008-11-12,https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg,Found
+The Hurt Locker,2010,12162,15000000,49259766,131,"Drama, Thriller, War",2008-10-10,https://image.tmdb.org/t/p/w500/io2dfBJhasvGbgkCX9cCGVOiA99.jpg,Found
+The King's Speech,2011,45269,15000000,414211549,118,"Drama, History",2010-11-26,https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg,Found
+The Artist,2012,74643,15000000,133432856,100,"Drama, Comedy, Romance",2011-10-12,https://image.tmdb.org/t/p/w500/z68py0ZqPgeacGPG54AGVRbNBS7.jpg,Found
+Argo,2013,68734,44500000,232300000,120,"Drama, Thriller",2012-10-11,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg,Found
+12 Years a Slave,2014,76203,20000000,187000000,134,"Drama, History",2013-10-18,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg,Found
+Birdman or (The Unexpected Virtue of Ignorance),2015,194662,18000000,103215094,120,"Drama, Comedy",2014-10-17,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg,Found
+Spotlight,2016,314365,20000000,98690254,129,"Drama, History",2015-11-06,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg,Found
+Moonlight,2017,376867,4000000,65046687,111,Drama,2016-10-21,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg,Found
+The Shape of Water,2018,399055,19500000,195300000,123,"Drama, Fantasy, Romance",2017-12-01,https://image.tmdb.org/t/p/w500/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg,Found
+Green Book,2019,490132,23000000,321752656,130,"Drama, Comedy, History",2018-11-16,https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg,Found
+Parasite,2020,496243,11363000,257591776,133,"Comedy, Thriller, Drama",2019-05-30,https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg,Found
+Nomadland,2021,581734,5000000,39458207,108,Drama,2021-01-29,https://image.tmdb.org/t/p/w500/dKT8rGDR55cM1vGn7QZLA9Tg9YC.jpg,Found
+CODA,2022,776503,10000000,1905058,112,"Drama, Music, Romance",2021-08-13,https://image.tmdb.org/t/p/w500/BzVjmm8l23rPsijLiNLUzuQtyd.jpg,Found
+Everything Everywhere All at Once,2023,545611,25000000,139200000,140,"Action, Adventure, Science Fiction",2022-03-24,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg,Found
+Oppenheimer,2024,872585,100000000,952000000,181,"Drama, History",2023-07-19,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg,Found
+Anora,2025,1064213,6000000,56286295,139,"Drama, Comedy, Romance",2024-10-14,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg,Found
