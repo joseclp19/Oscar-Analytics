@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
     # It focus on 'Best Picture' winners to optimize API calls and demonstrate specific insights.
     print("2. Filtering for 'Best Picture' winners...")
-    target_categories = ['BEST PICTURE', 'OUTSTANDING PICTURE', 'BEST MOTION PICTURE']
+    target_categories = ['BEST PICTURE', 'OUTSTANDING PICTURE', 'BEST MOTION PICTURE','OUTSTANDING PRODUCTION', 'OUTSTANDING MOTION PICTURE']
     
     # Filter: Category matches target AND is a winner
     df_filtered = df_original[df_original['category'].str.upper().isin(target_categories) & (df_original['winner'] == True)].copy()
